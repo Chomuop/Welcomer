@@ -140,4 +140,4 @@ async function generareCanvas(member) {
 }
 
 
-client.login(token)
+client.login(MTIxMjY3OTc1NzkwMTIwNTUzNA.GZHcRM.zFDfylBLdo224nR5wJwy9VM6OWVciBgSBpP0yE)
